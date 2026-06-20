@@ -1,0 +1,20 @@
+Column,Description
+Booking No,Unique booking ID
+Ticket Count,Number of tickets booked
+Ticket Amount,Amount of ticket purchased
+Grand Total,Total amount paid
+Processing Fee,Payment processing fee
+Platform Fee,Eventox platform fee
+Event Name,Name of the event
+Organizer,Event organizer
+Payment Status,Payment status
+Booking Status,Booking status
+Stripe Revenue,Revenue from Stripe
+Eventox Revenue,Revenue earned by Eventox
+Organizer Revenue,Revenue earned by organizer
+Refund Amount,Amount refunded
+Created Date,Booking creation date
+Month,Month extracted from Created Date
+Year,Year extracted from Created Date
+Revenue Per Ticket,Grand Total divided by Ticket Count
+Net Revenue,Grand Total minus Refund Amount
